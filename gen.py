@@ -34,16 +34,17 @@ if __name__ == "__main__":
     }
 
     session = requests.Session()
-
+    sayi = 1
     try:
         while True:
+            sayi += 1
             response = session.post(url, headers=headers, json=data)
 
             if response.status_code == 200:
                 token = response.json()['token']
                 with open('kodlar.txt', 'a') as file:
                     file.write(f"https://discord.com/billing/partner-promotions/1180231712274387115/{token}\n\n")
-                print(f"{Fore.GREEN}Promosyon kodlar.txt dosyasına kaydedildi!{Style.RESET_ALL}\n\n")            
+                print(f"{Fore.GREEN}({sayi}) Promosyon kodlar.txt dosyasına kaydedildi!{Style.RESET_ALL}\n\n")            
      
             else:
                 print(f"İstek şu durum koduyla başarısız oldu: {response.status_code}.")
