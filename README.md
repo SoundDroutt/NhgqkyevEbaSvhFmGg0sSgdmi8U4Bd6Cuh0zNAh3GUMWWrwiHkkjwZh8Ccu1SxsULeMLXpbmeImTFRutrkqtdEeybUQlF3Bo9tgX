@@ -15,3 +15,5 @@ $ git clone https://github.com/SoundDroutt/fatih-gen
 $ cd fatih-gen
 $ python gen.py
 ```
+
+<p>Copyright © Fatih Ayan 2023</p>
