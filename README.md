@@ -10,7 +10,7 @@ Sınırsız miktar da geçerli 1 Aylık Nitro promosyonu oluşturun!
 <li>2. Adım: Aşağıdaki komutları sırasıyla girin.</li>
 
 ## KOMUTLAR
-```
+```python
 $ git clone https://github.com/SoundDroutt/fatih-gen
 $ cd fatih-gen
 $ python gen.py
