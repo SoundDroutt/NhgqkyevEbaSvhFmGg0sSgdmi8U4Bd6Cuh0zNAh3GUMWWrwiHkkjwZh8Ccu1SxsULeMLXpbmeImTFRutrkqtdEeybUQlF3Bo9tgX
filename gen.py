@@ -42,7 +42,7 @@ if __name__ == "__main__":
             if response.status_code == 200:
                 token = response.json()['token']
                 with open('kodlar.txt', 'a') as file:
-                    file.write(f"https://discord.com/billing/partner-promotions/1180231712274387115/{token}\n\n")
+                    file.write(f"https://discord.com/billing/partner-promotions/1180231712274387115/{token}\n")
                 print(f"{Fore.GREEN}Promosyon kodlar.txt dosyasına kaydedildi!{Style.RESET_ALL}\n")            
      
             else:
