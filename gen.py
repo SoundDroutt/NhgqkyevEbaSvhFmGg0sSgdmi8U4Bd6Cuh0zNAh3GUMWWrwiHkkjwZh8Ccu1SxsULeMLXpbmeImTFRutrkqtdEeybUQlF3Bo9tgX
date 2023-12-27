@@ -5,8 +5,8 @@ import random
 import string
 from colorama import Fore, Style;
 
-print(f"\n{Fore.RED}𝕭𝖚 𝖙𝖔𝖔𝖑 𝕱𝖆𝖙𝖎𝖍 𝕬𝖞𝖆𝖓 𝖙𝖆𝖗𝖆𝖋ı𝖓𝖉𝖆𝖓 𝖐𝖚𝖗𝖚𝖑𝖒𝖚ş𝖙𝖚𝖗.{Style.RESET_ALL}")
-print(f"{Fore.CYAN}Discord Topluluğumuz: https://bit.ly/fatihcm{Style.RESET_ALL}\n\n")
+print(f"\n{Fore.RED}𝗕𝘂 𝘁𝗼𝗼𝗹 𝗙𝗮𝘁𝗶𝗵 𝗔𝘆𝗮𝗻 𝘁𝗮𝗿𝗮𝗳ı𝗻𝗱𝗮𝗻 𝗸𝘂𝗿𝘂𝗹𝗺𝘂ş𝘁𝘂𝗿.{Style.RESET_ALL}")
+print(f"{Fore.CYAN}𝘿𝙞𝙨𝙘𝙤𝙧𝙙 𝙏𝙤𝙥𝙡𝙪𝙡𝙪𝙜𝙪𝙢𝙪𝙯: 𝙝𝙩𝙩𝙥𝙨://𝙗𝙞𝙩.𝙡𝙮/𝙛𝙖𝙩𝙞𝙝𝙘𝙢{Style.RESET_ALL}\n\n")
 
 def generate_random_string(length):
     characters = string.ascii_letters + string.digits
