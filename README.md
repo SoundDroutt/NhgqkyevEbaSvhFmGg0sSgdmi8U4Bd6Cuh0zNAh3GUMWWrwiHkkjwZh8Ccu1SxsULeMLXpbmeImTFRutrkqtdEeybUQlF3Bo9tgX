@@ -13,10 +13,16 @@ Sınırsız miktar da geçerli 1 Aylık Nitro promosyonu oluşturun!
 
 ## 𝐍𝐀𝐒𝐈𝐋 𝐊𝐔𝐑𝐔𝐋𝐔𝐑? (REPLIT)
 <li>1. Adım: Play Store'dan veya Google'dan Replit'e kayıt olun.</li>
+<li> "+" yani "Create" butonundan “Import from URL" butonuna tıklayın.</li>
+<li>Github URL kısmına aşağıdaki bağlantıyı girin:</li>
+
+```css
+https://github.com/fatih-ayan/fatih-gen
+```
 
 ## 𝐊𝐎𝐌𝐔𝐓𝐋𝐀𝐑
 ```css
-$ git clone https://github.com/SoundDroutt/fatih-gen
+$ git clone https://github.com/fatih-ayan/fatih-gen
 $ cd fatih-gen
 $ python gen.py
 ```
