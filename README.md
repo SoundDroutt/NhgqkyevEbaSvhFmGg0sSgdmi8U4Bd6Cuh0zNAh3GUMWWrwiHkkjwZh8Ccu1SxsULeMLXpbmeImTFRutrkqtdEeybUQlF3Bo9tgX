@@ -24,7 +24,7 @@ $ python gen.py
 ```css
 $ cat kodlar.txt
 ```
-
+‎
 ## 𝐍𝐀𝐒𝐈𝐋 𝐊𝐔𝐑𝐔𝐋𝐔𝐑? (REPLIT)
 <li>1. Adım: Play Store'dan veya Google'dan Replit'e kayıt olun.</li>
 <li>2. Adım: "+" yani "Create" butonundan “Import from URL" butonuna tıklayın.</li>
