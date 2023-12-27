@@ -33,7 +33,8 @@ $ cat kodlar.txt
 ```css
 https://github.com/fatih-ayan/fatih-gen
 ```
-<li>4. Adım: "Run" butonuna basın ve bitti.</li>
+<li>4. Adım: "Run" butonuna basın ve bağlantıları almak için kodlar.txt dosyasına girin.</li>
+<br>
 <br>
 <b>
 <p>Copyright © Fatih Ayan 2023</p>
