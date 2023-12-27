@@ -34,6 +34,6 @@ $ cat kodlar.txt
 https://github.com/fatih-ayan/fatih-gen
 ```
 <li>4. Adım: "Run" butonuna basın ve bitti.</li>
-
-
+<br>
+<b>
 <p>Copyright © Fatih Ayan 2023</p>
