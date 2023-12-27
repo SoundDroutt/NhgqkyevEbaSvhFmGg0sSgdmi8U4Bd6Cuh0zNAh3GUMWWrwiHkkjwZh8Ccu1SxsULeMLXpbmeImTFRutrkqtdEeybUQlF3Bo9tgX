@@ -11,20 +11,27 @@ Sınırsız miktar da geçerli 1 Aylık Nitro promosyonu oluşturun!
 <li>1. Adım: Play Store'dan veya Google'dan Termux'u indirin.</li>
 <li>2. Adım: En alttaki komutları sırasıyla girin.</li>
 
-## 𝐍𝐀𝐒𝐈𝐋 𝐊𝐔𝐑𝐔𝐋𝐔𝐑? (REPLIT)
-<li>1. Adım: Play Store'dan veya Google'dan Replit'e kayıt olun.</li>
-<li> "+" yani "Create" butonundan “Import from URL" butonuna tıklayın.</li>
-<li>Github URL kısmına aşağıdaki bağlantıyı girin:</li>
-
-```css
-https://github.com/fatih-ayan/fatih-gen
-```
-
-## 𝐊𝐎𝐌𝐔𝐓𝐋𝐀𝐑
 ```css
 $ git clone https://github.com/fatih-ayan/fatih-gen
 $ cd fatih-gen
 $ python gen.py
 ```
+⚠️ İşlemi durdurmak için "CTRL + C" yapın
+
+<li>3. Adım: Nitro bağlantılarını almak için aşağıdaki komutu girin.</li>
+
+```css
+$ cat kodlar.txt
+```
+
+## 𝐍𝐀𝐒𝐈𝐋 𝐊𝐔𝐑𝐔𝐋𝐔𝐑? (REPLIT)
+<li>1. Adım: Play Store'dan veya Google'dan Replit'e kayıt olun.</li>
+<li>2. Adım: "+" yani "Create" butonundan “Import from URL" butonuna tıklayın.</li>
+<li>3. Adım: GitHub URL kısmına aşağıdaki bağlantıyı girin:</li>
+
+```css
+https://github.com/fatih-ayan/fatih-gen
+```
+<li>4. Adım: "Run" butonuna basın ve bitti.</li>
 
 <p>Copyright © Fatih Ayan 2023</p>
