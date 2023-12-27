@@ -5,11 +5,11 @@ Sınırsız miktar da geçerli 1 Aylık Nitro promosyonu oluşturun!
 
 🔥 [Discord Topluluğumuz](https://discord.gg/EFW8eM3e8G)
 
-## NASIL KURULUR?
+## 𝐍𝐀𝐒𝐈𝐋 𝐊𝐔𝐑𝐔𝐋𝐔𝐑?
 <li>1. Adım: Play Store'dan veya Google'dan Termux'u indirin.</li>
 <li>2. Adım: Aşağıdaki komutları sırasıyla girin.</li>
 
-## KOMUTLAR
+## 𝐊𝐎𝐌𝐔𝐓𝐋𝐀𝐑
 ```css
 $ git clone https://github.com/SoundDroutt/fatih-gen
 $ cd fatih-gen
